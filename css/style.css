@@ -1,0 +1,14 @@
+body {font-family:Fontdiner Swanky; background-color:#DB3424 ; color:#070038}
+
+
+h1, h2, h3,h4,h5,h6 {font-family:"Barriecito"; font-size:100pt}
+
+header{text-align:center}
+
+#hero, footer{color:#1D8CFA}
+#hero, footer{background-color: #50443D;}
+#hero, footer{text-align:center}
+#hero img{width:300px;}
+
+
+#bio{text-align:center}
